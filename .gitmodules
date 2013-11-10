@@ -1,3 +1,9 @@
 [submodule "awstool"]
 	path = awstool
 	url = git://github.com/ryoogata/awstool.git
+[submodule "fswiki"]
+	path = fswiki
+	url = git://github.com/ryoogata/fswiki.git
+[submodule "apache2"]
+	path = apache2
+	url = git://github.com/opscode-cookbooks/apache2.git
