@@ -7,3 +7,6 @@
 [submodule "apache2"]
 	path = apache2
 	url = git://github.com/opscode-cookbooks/apache2.git
+[submodule "cdh3"]
+	path = cdh3
+	url = git://github.com/ryoogata/cdh3.git
