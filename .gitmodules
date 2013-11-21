@@ -10,3 +10,12 @@
 [submodule "cdh3"]
 	path = cdh3
 	url = git://github.com/ryoogata/cdh3.git
+[submodule "splunk"]
+	path = splunk
+	url = git://github.com/ryoogata/splunk.git
+[submodule "vncserver"]
+	path = vncserver
+	url = git://github.com/ryoogata/vncserver.git
+[submodule "browser"]
+	path = browser
+	url = git://github.com/ryoogata/browser.git
